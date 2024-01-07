@@ -48,7 +48,7 @@ Se abrira la siguiente ventana clickaremos en la variable de java y introducimos
 Descargamos de el enlace a github el archivo .zip, creamos una carpeta en C con el nombre que queramos y introducimos el archivo .zip que hemos descargado, lo descomprimimos y abrimos la carpeta resultante nos metemos en src y Clickamos en el ejecutable y el programa comenzara a funcionar.
   
 
-## :memo: **2. Funcionamiento:memo:**
+## :memo: **2. Funcionamiento** :memo:
 
   
 
